@@ -7,6 +7,10 @@ Summary: space ship fires "gate" to turn particles "state" to |0>
 3. Fire gate to turn particle state to |0> and collect it.
 4. If miss 3 particles, game over.
 
+## Screenshot
+
+![game image](game_image.png)
+
 ## Implementation
 
 1. Use ipywidgets so that it can be played inside browser or vscode.
