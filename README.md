@@ -11,6 +11,13 @@ Summary: space ship fires "gate" to turn particles "state" to |0>
 
 ![game image](game_image.png)
 
+## Game parameters
+
+The following global variables may be modified to increase the game difficulty.
+
+1. SCREEN_Y: add more lanes
+2. PARTICLE_SPEED_X: faster particles
+
 ## Implementation
 
 1. Use ipywidgets so that it can be played inside browser or vscode.
