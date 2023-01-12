@@ -23,4 +23,4 @@ The following global variables may be modified to increase the game difficulty.
 
 ## Implementation
 
-1. Use ipywidgets so that it can be played inside browser or vscode.
+1. Use ipywidgets so that it can be played inside browser or vscode with jupyter.
